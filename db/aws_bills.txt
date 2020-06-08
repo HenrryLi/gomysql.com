@@ -1,0 +1,531 @@
+May 2020
+ Beijing Sinnet Technology Co., Ltd.
+¥660,146.49
+¥0.00
+CloudTrail
+¥183,779.24
+CloudWatch
+¥61.72
+Config
+¥140,335.71
+Data Transfer
+¥166,506.83
+Elastic Compute Cloud
+¥175.78
+Elastic Container Service for Kubernetes
+¥81,004.69
+ElastiCache
+¥0.05
+Key Management Service
+¥0.00
+Lambda
+¥48,795.37
+Relational Database Service
+¥0.00
+Simple Notification Service
+¥0.00
+Simple Queue Service
+¥2,036.97
+Simple Storage Service
+¥83.33
+Virtual Private Cloud
+Taxes
+¥37,366.80
+VAT to be collected
+
+April 2020
+ Beijing Sinnet Technology Co., Ltd.
+¥633,094.25
+¥0.00
+CloudTrail
+¥159,911.63
+CloudWatch
+¥47.02
+Config
+¥135,677.89
+Data Transfer
+¥173,116.50
+Elastic Compute Cloud
+¥78,510.24
+ElastiCache
+¥0.04
+Key Management Service
+¥0.00
+Lambda
+¥47,743.28
+Relational Database Service
+¥0.00
+Secrets Manager
+¥0.00
+Simple Notification Service
+¥0.00
+Simple Queue Service
+¥2,171.50
+Simple Storage Service
+¥80.64
+Virtual Private Cloud
+Taxes
+¥35,835.51
+VAT to be collected
+
+March 2020
+ Beijing Sinnet Technology Co., Ltd.
+¥700,800.78
+¥0.00
+CloudTrail
+¥174,110.40
+CloudWatch
+¥20.62
+Config
+¥142,622.54
+Data Transfer
+¥210,639.45
+Elastic Compute Cloud
+¥81,127.25
+ElastiCache
+¥0.04
+Key Management Service
+¥0.00
+Lambda
+¥50,364.05
+Relational Database Service
+¥0.00
+Simple Notification Service
+¥0.00
+Simple Queue Service
+¥2,165.12
+Simple Storage Service
+¥83.33
+Virtual Private Cloud
+Taxes
+¥39,667.98
+VAT to be collected
+
+February 2020
+Beijing Sinnet Technology Co., Ltd.
+¥683,417.44
+¥0.00
+CloudTrail
+¥170,173.03
+CloudWatch
+¥20.20
+Config
+¥131,148.45
+Data Transfer
+¥217,741.24
+Elastic Compute Cloud
+¥75,893.23
+ElastiCache
+¥0.02
+Key Management Service
+¥0.01
+Lambda
+¥47,591.47
+Relational Database Service
+¥0.00
+Simple Notification Service
+¥0.00
+Simple Queue Service
+¥2,087.84
+Simple Storage Service
+¥77.95
+Virtual Private Cloud
+Taxes
+¥38,683.99
+VAT to be collected
+
+January 2020
+ Beijing Sinnet Technology Co., Ltd.
+¥691,081.36
+¥0.00
+CloudTrail
+¥165,752.38
+CloudWatch
+¥25.90
+Config
+¥121,339.57
+Data Transfer
+¥231,269.50
+Elastic Compute Cloud
+¥81,127.25
+ElastiCache
+¥0.03
+Key Management Service
+¥0.02
+Lambda
+¥50,364.05
+Relational Database Service
+¥0.00
+Simple Notification Service
+¥2,001.51
+Simple Storage Service
+¥83.33
+Virtual Private Cloud
+Taxes
+¥39,117.84
+VAT to be collected
+
+December 2019
+ Beijing Sinnet Technology Co., Ltd.
+¥672,038.34
+¥0.00
+CloudTrail
+¥158,880.81
+CloudWatch
+¥19.92
+Config
+¥110,319.12
+Data Transfer
+¥231,253.03
+Elastic Compute Cloud
+¥81,127.25
+ElastiCache
+¥0.05
+Key Management Service
+¥0.00
+Lambda
+¥50,364.05
+Relational Database Service
+¥0.00
+Simple Notification Service
+¥1,950.86
+Simple Storage Service
+¥83.33
+Virtual Private Cloud
+Taxes
+¥38,039.93
+VAT to be collected
+
+November 2019
+ Beijing Sinnet Technology Co., Ltd.
+¥645,867.97
+¥0.00
+CloudTrail
+¥150,484.41
+CloudWatch
+¥20.32
+Config
+¥105,237.41
+Data Transfer
+¥223,934.45
+Elastic Compute Cloud
+¥78,510.24
+ElastiCache
+¥0.08
+Key Management Service
+¥0.00
+Lambda
+¥48,977.76
+Relational Database Service
+¥0.00
+Simple Notification Service
+¥2,064.08
+Simple Storage Service
+¥80.64
+Virtual Private Cloud
+Taxes
+¥36,558.57
+VAT to be collected
+
+October 2019
+ Beijing Sinnet Technology Co., Ltd.
+¥651,330.55
+¥0.00
+CloudTrail
+¥141,341.36
+CloudWatch
+¥24.72
+Config
+¥108,869.77
+Data Transfer
+¥230,095.18
+Elastic Compute Cloud
+¥81,127.25
+ElastiCache
+¥0.10
+Key Management Service
+¥0.00
+Lambda
+¥50,364.05
+Relational Database Service
+¥0.00
+Simple Notification Service
+¥2,557.02
+Simple Storage Service
+¥83.33
+Virtual Private Cloud
+Taxes
+¥36,867.77
+VAT to be collected
+
+September 2019
+ Beijing Sinnet Technology Co., Ltd.
+¥627,747.86
+¥0.00
+CloudTrail
+¥134,031.29
+CloudWatch
+¥26.44
+Config
+¥105,733.22
+Data Transfer
+¥222,926.89
+Elastic Compute Cloud
+¥78,510.24
+ElastiCache
+¥0.05
+Key Management Service
+¥0.00
+Lambda
+¥48,977.76
+Relational Database Service
+¥0.00
+Simple Notification Service
+¥1,928.42
+Simple Storage Service
+¥80.64
+Virtual Private Cloud
+Taxes
+¥35,532.91
+VAT to be collected
+
+August 2019
+ Beijing Sinnet Technology Co., Ltd.
+¥763,203.41
+¥0.00
+CloudTrail
+¥125,760.17
+CloudWatch
+¥87.14
+Config
+¥114,841.43
+Data Transfer
+¥345,787.89
+Elastic Compute Cloud
+¥81,127.25
+ElastiCache
+¥0.04
+Key Management Service
+¥0.00
+Lambda
+¥50,364.05
+Relational Database Service
+¥0.00
+Simple Notification Service
+¥1,951.90
+Simple Storage Service
+¥83.33
+Virtual Private Cloud
+Taxes
+¥43,200.20
+VAT to be collected
+
+July 2019
+ Beijing Sinnet Technology Co., Ltd.
+¥930,736.24
+¥0.00
+CloudTrail
+¥124,708.65
+CloudWatch
+¥167.46
+Config
+¥117,700.90
+Data Transfer
+¥501,629.71
+Elastic Compute Cloud
+¥81,127.25
+ElastiCache
+¥0.09
+Key Management Service
+¥0.00
+Lambda
+¥50,364.05
+Relational Database Service
+¥0.00
+Simple Notification Service
+¥0.00
+Simple Queue Service
+¥2,271.58
+Simple Storage Service
+¥83.33
+Virtual Private Cloud
+Taxes
+¥52,683.21
+VAT to be collected
+
+June 2019
+ Beijing Sinnet Technology Co., Ltd.
+¥679,304.81
+¥0.00
+CloudTrail
+¥116,257.35
+CloudWatch
+¥22.80
+Config
+¥110,289.11
+Data Transfer
+¥285,127.60
+Elastic Compute Cloud
+¥78,510.24
+ElastiCache
+¥0.00
+Key Management Service
+¥0.20
+Lambda
+¥48,977.76
+Relational Database Service
+¥0.01
+Simple Notification Service
+¥1,587.88
+Simple Storage Service
+¥80.64
+Virtual Private Cloud
+Taxes
+¥38,451.23
+VAT to be collected
+
+May 2019
+ Beijing Sinnet Technology Co., Ltd.
+¥705,717.03
+¥0.00
+CloudTrail
+¥65,284.85
+CloudWatch
+¥18.12
+Config
+¥111,854.76
+Data Transfer
+¥355,625.72
+Elastic Compute Cloud
+¥81,127.25
+ElastiCache
+¥0.09
+Lambda
+¥50,364.05
+Relational Database Service
+¥0.01
+Simple Notification Service
+¥1,437.12
+Simple Storage Service
+¥58.80
+Virtual Private Cloud
+Taxes
+¥39,946.25
+VAT to be collected
+
+April 2019
+ Beijing Sinnet Technology Co., Ltd.
+¥598,928.85
+¥0.00
+CloudTrail
+¥59,799.28
+CloudWatch
+¥24.54
+Config
+¥107,749.83
+Data Transfer
+¥268,541.32
+Elastic Compute Cloud
+¥78,510.24
+ElastiCache
+¥0.01
+Lambda
+¥48,977.76
+Relational Database Service
+¥0.00
+Simple Notification Service
+¥0.00
+Simple Queue Service
+¥1,424.23
+Simple Storage Service
+Taxes
+¥33,901.64
+VAT to be collected
+
+March 2019
+ Beijing Sinnet Technology Co., Ltd.
+¥624,421.03
+¥0.00
+CloudTrail
+¥64,236.04
+CloudWatch
+¥27.20
+Config
+¥111,045.43
+Data Transfer
+¥280,833.88
+Elastic Compute Cloud
+¥81,127.25
+ElastiCache
+¥0.00
+Lambda
+¥50,364.05
+Relational Database Service
+¥0.00
+Simple Notification Service
+¥1,442.57
+Simple Storage Service
+Taxes
+¥35,344.62
+VAT to be collected
+
+February 2019
+ Beijing Sinnet Technology Co., Ltd.
+¥576,435.94
+¥0.00
+CloudTrail
+¥63,962.93
+CloudWatch
+¥13.96
+Config
+¥102,561.79
+Data Transfer
+¥256,354.65
+Elastic Compute Cloud
+¥73,276.22
+ElastiCache
+¥0.00
+Lambda
+¥46,205.18
+Relational Database Service
+¥0.00
+Simple Notification Service
+¥1,432.73
+Simple Storage Service
+Taxes
+¥32,628.47
+VAT to be collected
+
+January 2019
+ Beijing Sinnet Technology Co., Ltd.
+¥630,373.98
+¥0.00
+CloudTrail
+¥68,127.45
+CloudWatch
+¥26.08
+Config
+¥112,585.90
+Data Transfer
+¥281,060.45
+Elastic Compute Cloud
+¥81,127.25
+ElastiCache
+¥0.00
+Lambda
+¥50,364.05
+Relational Database Service
+¥0.00
+Simple Notification Service
+¥0.00
+Simple Queue Service
+¥1,401.25
+Simple Storage Service
+Taxes
+¥35,681.55
+VAT to be collected
+
+
+
+
+
