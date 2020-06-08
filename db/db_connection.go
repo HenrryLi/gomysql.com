@@ -24,4 +24,6 @@ func CreateCon() *sql.DB {
 		fmt.Println("MySQL db is not connected")
 		fmt.Println(err.Error())
 	}
+	return db
+
 }
