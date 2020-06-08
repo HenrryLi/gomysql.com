@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"goformysql.com/db"
+	"gomysql.com/db"
 )
 
 func main() {
